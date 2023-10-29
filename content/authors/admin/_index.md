@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 周冰
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Bing Zhou
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Bing
+last_name: Zhou
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student in Geography / GIScience
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Texas A&M University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
